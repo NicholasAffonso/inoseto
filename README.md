@@ -1,2 +1,2 @@
 # insetobot
-Um pequeno robô com Arduino
+Um pequeno robô com Arduino Uno
